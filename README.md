@@ -59,6 +59,9 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   </a> 
+  <a href="https://www.mongodb.com/try/download/shell" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongosh" width="40" height="40"/> 
+</a>
 </p>
 
 
