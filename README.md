@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyakumarjha" alt="divyakumarjha" /></a> </p>
 
-- 🌱 I’m currently learning **React, Express, Node**
+- 🌱 I’m currently learning frameworks like **ReactJS, ExpressJS, NodeJS**
 
 - 📫 How to reach me **divyakumarjha87@gmail.com**
-
-- ⚡ Fun fact **There's nothing fun about me**
+  
+- ⚡ Fun fact **There's nothing fun about me :/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
