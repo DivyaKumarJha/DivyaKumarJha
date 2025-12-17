@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm DIVYA</h1>
 <h3 align="center">A passionate developer and DSA enthusiast from India</h3>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=divyakumarjha&theme=onedark&no-frame=false&no-bg=false&margin-w=4" alt="divyakumarjha" />
-  </a> 
-</p>
 
 - 🌱 I’m currently learning frameworks like **ReactJS, ExpressJS, NodeJS**
 
