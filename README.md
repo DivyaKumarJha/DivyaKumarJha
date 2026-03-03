@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer and DSA enthusiast from India</h3>
 
 
-- 🌱 I’m currently learning frameworks like **ReactJS, ExpressJS, NodeJS**
+- 🌱 I’m currently learning frameworks like **Langchain, Langgraph, Agentic AI, Gen AI tools**
 
 - 📫 How to reach me **divyakumarjha87@gmail.com**
   
