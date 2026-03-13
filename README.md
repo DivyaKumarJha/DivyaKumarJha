@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm DIVYA</h1>
-<h3 align="center">A passionate developer and DSA enthusiast from India</h3>
-
 
 - 🌱 I’m currently learning frameworks like **Langchain, Langgraph, Agentic AI, Gen AI tools**
 
